@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.lukasabbe.sleepunderday.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "StartSleepingMixinNeoForge"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
